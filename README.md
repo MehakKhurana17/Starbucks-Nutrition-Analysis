@@ -15,7 +15,7 @@ The beverage nutritional assessment dashboard offers the following features:
 
 3. Size customization and milk customization options are available to accurately assess the nutritional components present in the drink.
 
-4. The tool also provides a section of recommended beverages based on the nutritional analysis, which shows the best-suited beverages for people with different nutritional goals.
+4. The dashboard also provides a section of recommended beverages based on the nutritional analysis, which shows the best-suited beverages for people with different nutritional goals.
 
 These features enable users to make informed decisions about the beverages they consume, based on their nutritional requirements and goals. By selecting specific beverage categories and customizing the size and milk content of their drinks, users can accurately assess the nutritional content of their beverage of choice. Additionally, the recommended beverage section provides users with an easy way to find beverages that align with their nutritional goals, making it easier for them to make healthier choices.
 
